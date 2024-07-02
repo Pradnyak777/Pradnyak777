@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradnya Kharmale</h1>
 <h3 align="center">I am Frontend And Backend Developer from India</h3>
-<img align="right" width=400 alt="Coding" src="eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk5MzA3NjQsIm5iZiI6MTcxOTkzMDQ2NCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzAyVDE0Mjc0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAzZDVkNjg2NDc0NjBmN2EwMmUzYzkwMmM3ZjEzODJmNzFkMDczMDhlYTIyZDIzNzZjNjJlMGExNDhiMjEwZDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0">
+<img align="right" width=400 alt="Coding" src=["https//157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradnyak777&label=Profile%20views&color=0e75b6&style=flat" alt="pradnyak777" /> </p>
 
