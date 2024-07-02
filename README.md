@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradnya Kharmale</h1>
 <h3 align="center">I am Frontend And Backend Developer from India</h3>
-<img align="right" width=400 alt="Coding" src=["https//157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)">
+<img align="right" width=400 alt="Coding" src=https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradnyak777&label=Profile%20views&color=0e75b6&style=flat" alt="pradnyak777" /> </p>
 
